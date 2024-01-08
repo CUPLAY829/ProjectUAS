@@ -138,7 +138,7 @@ daftar_barang()
 
 ## PENJELASAN
 def daftar_barang():
-    """
+    
     Fungsi untuk membuat atau menampilkan daftar barang.
     Cara Penggunaan:
     1. Panggil fungsi daftar_barang().
@@ -279,3 +279,7 @@ oin-poin penting dari fungsi akhir():
 -Catatan Akhir: Terdapat pemanggilan fungsi daftar_barang() di bagian terakhir kode. Harap dicatat bahwa fungsi ini harus didefinisikan sebelumnya dalam program agar tidak terjadi kesalahan.
 
 -Saran: Pertimbangkan untuk memindahkan pemanggilan daftar_barang() ke bagian awal program atau sebelum fungsi akhir(). Ini akan memastikan bahwa fungsi daftar_barang() sudah didefinisikan sebelum digunakan.
+```
+
+### Hasil Program 
+<img src="hasiloutput.png">
